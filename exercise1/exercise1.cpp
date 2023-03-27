@@ -28,5 +28,6 @@ int main() {
 	cout << "Status Kelulusan = " << status(rerata(nilM, nilB));
 	cout << "\nStatus Kelulusan2 = " << status2(rerata(nilM, nilB), nilM);
 	return 0;
+}
 
 
